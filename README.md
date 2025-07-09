@@ -91,19 +91,6 @@ You will find the following files in the `certs` directory:
 
 ---
 
-## Author
-
-**Vladislav Malikov**  
-Date: 2025-07-09
-
----
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-## Support
-
-For issues or questions, please contact the author or open an issue in the repository.
