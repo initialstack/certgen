@@ -1,3 +1,5 @@
+# Certify (certgen.sh)
+
 ## Overview
 
 `certgen.sh` is a Bash script designed to automate the creation of a root Certificate Authority (CA), private keys, X.509 certificates, and Diffie-Hellman parameters for multiple services such as **nginx**, **redis**, **rabbitmq**, and **postgres**. All generated cryptographic materials are stored in the `certs` directory.
