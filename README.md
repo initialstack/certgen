@@ -1,4 +1,4 @@
-# Certify (certgen.sh)
+# Certificate Generator
 
 ## Overview
 
