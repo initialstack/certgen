@@ -25,7 +25,7 @@
 - The following configuration files must exist relative to the script:
   - `config/openssl.cnf` — OpenSSL extensions config
   - `config/subject.conf` — Subject DN parameters
-  - `config/usage.txt` — Usage instructions
+  - `usage.txt` — Usage instructions
 
 ---
 
@@ -48,7 +48,7 @@
 - `config/` — Contains configuration files:
   - `openssl.cnf`
   - `subject.conf`
-  - `usage.txt`
+- `usage.txt`
 
 ---
 
